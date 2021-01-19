@@ -38,7 +38,8 @@ export default {
   },
   methods: {
     back() {
-      this.$router.go(-1);
+      // this.$router.go(-1);
+      this.$router.push({ name: "Recommend" });
     },
     goCollection() {
       console.log(111);

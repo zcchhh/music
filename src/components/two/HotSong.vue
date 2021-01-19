@@ -4,14 +4,13 @@
       <div class="u-hmsprt hoticon"></div>
       <div class="hottime">
         <span>更新日期</span>
-        <span>12月24号</span>
+        <span>01月11号</span>
       </div>
     </div>
   </div>
 </template>
 
 <script>
-
 export default {};
 </script>
 
