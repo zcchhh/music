@@ -56,7 +56,7 @@ export default {
     color: #fff;
     font-size: 20px;
     position: absolute;
-    top: 7px;
+    top: 4px;
     left: 40px;
   }
   .ls-span2 {
